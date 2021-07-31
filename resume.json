@@ -1,12 +1,12 @@
 {
 	"basics": {
-		"name": "---Enter Your Name---",
+		"name": "Rajat Singh",
 		"label": "Student",
-		"picture": "---Enter Image URL----",
-		"email": "---Enter Email ID---",
-		"phone": "---Enter Mobile Number---",
-		"website": "---Enter Link of website(if any) ---",
-		"summary": "---Tell Something about yourself ---",
+		"picture": "",
+		"email": "2020kucp1064@iiitkota.ac.in",
+		"phone": "7776963575",
+		"website": "",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
 		"location": {
 			"address": "---",
 			"postalCode": "---",
@@ -16,23 +16,18 @@
 		},
 		"profiles": [{
 				"network": "Twitter",
-				"username": "handle",
-				"url": "https://www.twitter.com/<handle>"
+				"username": "lonecoder",
+				"url": "https://www.twitter.com/lonecoder"
 			},
 			{
 				"network": "Github",
-				"username": "handle",
-				"url": "https://www.github.com/<handle>/"
+				"username": "con-artist",
+				"url": "https://www.github.com/con-artist/"
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
-				"url": "https://www.linkedin.com/in/<username>/"
-			},
-			{
-				"network": "Instagram",
-				"username": "handle",
-				"url": "https://instagram.com/<handle>"
+				"username": "rajat1064",
+				"url": "https://www.linkedin.com/in/rajat1064/"
 			}
 		]
 	},
@@ -60,7 +55,7 @@
 		"studyType": "Bachelor (hons)",
 		"startDate": "2018-04-08 //Date",
 		"endDate": "----",
-		"gpa": "---Add your CGPA ---",
+		"gpa": "9.41",
 		"courses": [
 			"Computer Science & Engineering"
 		]
